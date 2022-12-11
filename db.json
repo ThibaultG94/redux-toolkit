@@ -48,6 +48,18 @@
       "year": "2021",
       "photo": "https://picsum.photos/400/470",
       "id": 9
+    },
+    {
+      "artist": "Salem",
+      "year": "2017",
+      "photo": "https://picsum.photos/400/489",
+      "id": 10
+    },
+    {
+      "artist": "Thibault Guilhem",
+      "year": "2022",
+      "photo": "https://picsum.photos/400/357",
+      "id": 11
     }
   ]
 }
